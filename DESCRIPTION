@@ -21,3 +21,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/amandaadong/measlesr
+BugReports: https://github.com/amandaadong/measlesr/issues
