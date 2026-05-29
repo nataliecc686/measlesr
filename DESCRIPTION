@@ -19,7 +19,9 @@ Imports:
     readr
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat (>= 3.0.0)
 VignetteBuilder: knitr
 URL: https://github.com/amandaadong/measlesr
 BugReports: https://github.com/amandaadong/measlesr/issues
+Config/testthat/edition: 3
